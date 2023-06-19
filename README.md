@@ -18,4 +18,4 @@ Constraints
 
 M ≤ N
 
-1 ≤ S(i) ≤N
+1 ≤ S(i) ≤ N
