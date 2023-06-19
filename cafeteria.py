@@ -1,5 +1,4 @@
 from typing import List
-# Write any import statements here
 
 def getMaxAdditionalDinersCount(N: int, K: int, M: int, S: List[int]) -> int:
     # Write your code here
